@@ -8,7 +8,7 @@ VBR fix by phx
 compiled with vasm 1.8l, with the following options:
 vasmm68k_mot.exe -devpac -Fhunkexe -kick1hunks -nosym  ptplayer.asm -o ptplayer.obj
 
-Built wit the following configuration flags:
+Built with the following configuration flags:
 
 MINIMAL		equ	0
 
